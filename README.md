@@ -1,2 +1,2 @@
-# Repositorio
- Primeiro repositorio do curso de git e github
+# Repositório
+ Primeiro repositorio do curso de Git e Github
