@@ -113,3 +113,16 @@ Numero | Nome | Nota
 3|Maria|9,5
 4|João|6
 
+16
+Como adicionar um fundo em uma função
+
+A função em python `print()` serve para imprimir na tela
+
+17
+Como adicionar um parte de um algoritmo
+```
+nome = input('Digite seu Nome: ')
+print(f'Seu nome é {nome}')
+
+```
+
