@@ -68,7 +68,7 @@ ou
 Lista numerada sub itens
 
 1. teste
- 1. teste1
+  1. teste1
 2. teste2
 
 11
@@ -80,20 +80,20 @@ Lista demarcada
 12
 Lista demarcada sub itens
 * teste1
- * teste2
+  * teste2
 * teste3
 - teste4
 
 13
 Lista de Tarefas
-- [] Criar esse arquivo
-- [] Agendar uma reunião
-- [] Deploy 
+- [ ] Criar esse arquivo
+- [ ] Agendar uma reunião
+- [ ] Deploy 
 
 14
 Lista de tarefas terminada
 - [x] Criar esse arquivo
 - [x] Agendar uma reunião
-- [] Deploy
+- [ ] Deploy
 
 
