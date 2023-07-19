@@ -96,4 +96,20 @@ Lista de tarefas terminada
 - [x] Agendar uma reunião
 - [ ] Deploy
 
+15
+Como adicionar uma imagem
+![Alt text](Snapinsta.app_254147605_2086746358148658_1577956547986875010_n_1080.jpg)
+
+16
+Para criar um link
+[Acesse meu Git Hub](https://github.com/alessandroex9)
+
+17
+Para criar uma tabela
+Numero | Nome | Nota
+---|---|---
+1|Alessandro|10
+2|Mario|9
+3|Maria|9,5
+4|João|6
 
