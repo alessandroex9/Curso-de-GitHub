@@ -126,3 +126,11 @@ print(f'Seu nome é {nome}')
 
 ```
 
+18
+Como adicionar emoji
+:monkey:
+
+19
+Como colocar sitações 
+
+Como diria o @alessandroex9
